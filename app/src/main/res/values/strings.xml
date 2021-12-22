@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arithmetic Operations</string>
+    <string name="AO">Arithmetic Operations</string>
+    <string name="EFN">Enter First Number</string>
+    <string name="ESN">Enter Second Number</string>
+    <string name="CLR">CLEAR</string>
+    <string name="ARI">ARITHMETIC OPERATIONS</string>
+    <string name="ADD">ADDITION</string>
+    <string name="SUB">SUBTRACTION</string>
+    <string name="MUL">MULTIPLICATION</string>
+    <string name="DIV">DIVISION</string>
+    <string name="MDIV">MODULO-DIVISION</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+</resources>
